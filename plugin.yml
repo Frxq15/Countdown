@@ -1,0 +1,11 @@
+name: Countdown
+version: 1.0
+authors: [Frxq15]
+main: me.Frxq15.Countdown.Main
+description: Countdown plugin
+
+commands:
+  setcountdown:
+    description: Base command
+    usage: /<command> <time>
+    aliases: [countdown, starttimer]

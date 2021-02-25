@@ -1,0 +1,13 @@
+#Color of the boss bar
+COLOR: "PURPLE"
+#Style of the bossbar, options are Solid, Segmented_6, Segmented_10, Segmented_12, Segmented_20
+STYLE: "SOLID"
+BOSSBAR_MSG: "&7Starting in &b%time% &7seconds."
+BOSSBAR_ENDED: "&7Countdown ended"
+INVALID_TIME: "&cThe time specified must be greater than 0 seconds."
+COUNTDOWN_STARTED: "&7You started a countdown of &b%time% &7seconds."
+NO_PERMISSION: "&cYou dont have permission to execute this command."
+ENABLED_WORLDS:
+  - "world"
+END_COMMANDS:
+  - "msg %player% your in the correct world lol"
