@@ -1,0 +1,2 @@
+# Countdown
+Bossbar countdown plugin
